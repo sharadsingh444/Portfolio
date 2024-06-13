@@ -1,0 +1,78 @@
+{
+    "skills": [
+      {
+        "id": "1",
+        "src": "./img/product-chain-1.png",
+        "title": "Frontend Development",
+        "description": "Skilled in front-end development using React, HTML, CSS, JavaScript, and Tailwind CSS to create intuitive, responsive, dynamic, and accessible user interfaces"
+      },
+      {
+        "id": "2",
+        "src": "./img/tag-1.png",
+        "title": "Backend Development",
+        "description": "Expert in Node.js and Express.js, specializing in building robust, scalable server-side applications and RESTful APIs for seamless data management and integration"
+      },
+      {
+        "id": "3",
+        "src": "./img/feather-pen-1.png",
+        "title": "Database Management",
+        "description": "Skilled in MongoDB and MySQL database management, specializing in designing, implementing, and optimizing databases for efficient and reliable data storage and retrieval."
+      }
+    ],
+    "portfolio": [
+
+      {
+        "id": "2",
+        "src": "./img/project2.png",
+        "title": "CoreX",
+        "description": "CoreX is a fitness app built with React and Material UI, utilizing the ExerciseDB API to offer users detailed instructions on performing various exercises effectively, enhancing their workout routines.",
+        "link": "View In Github",
+        "gitlink":"https://github.com/avi46601/CoreX",
+        "live":"Live",
+        "liveLink":"https://prismatic-belekoy-26b1fc.netlify.app/"
+      },
+      {
+        "id": "1",
+        "src": "./img/placeholder-image.png",
+        "title": "CodeShare",
+        "description": "I brought Realtime-CodeShare to life. Using Node.js and Socket.io for smooth communication, I hosted servers with Express.js. The React library added a touch of magic to create attractive interfaces.",
+        "link": "View In Github",
+        "gitlink":"https://github.com/avi46601/RealTime-CodeShare"
+      },
+      
+      {
+        "id": "3",
+        "src": "./img/placeholder-image-2.png",
+        "title": "BookWiseHub",
+        "description": "BookWiseHub is like a digital library where we keep track of all kinds of books. This full-stack app is built using React, Tailwind CSS, Express.js, Node.js, and MongoDB, providing seamless user experience.",
+        "link": "View In Github",
+        "gitlink":"https://github.com/avi46601/BookWiseHub"
+      }
+    ],
+    "testimonial": [
+      {
+        "id": "1",
+        "count": "5",
+        "src": "./img/avatar-image.png",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+        "author_name": "Dianne Russel",
+        "author_designation": "Starbucks"
+      },
+      {
+        "id": "2",
+        "count": "5",
+        "src": "./img/avatar-image-1.png",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+        "author_name": "Kristin Watson",
+        "author_designation": "Louis Vuitton"
+      },
+      {
+        "id": "3",
+        "count": "5",
+        "src": "./img/avatar-image-2.png",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+        "author_name": "Kathryn Murphy",
+        "author_designation": "McDonald's"
+      }
+    ]
+  }
