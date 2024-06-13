@@ -23,11 +23,11 @@
 
       {
         "id": "2",
-        "src": "./img/project2.png",
-        "title": "CoreX",
-        "description": "CoreX is a fitness app built with React and Material UI, utilizing the ExerciseDB API to offer users detailed instructions on performing various exercises effectively, enhancing their workout routines.",
+        "src": "./img/project1.png",
+        "title": "IMDB Clone",
+        "description": "I crafted IMDb-Clone, employing HTML, CSS, JavaScript, and React. Integrated TMDB API for dynamic movie data, utilized React for state management, and crafted a responsive, user-friendly interface.",
         "link": "View In Github",
-        "gitlink":"https://github.com/avi46601/CoreX",
+        "gitlink":"https://github.com/sharadsingh444/IMDB-Clone.git",
         "live":"Live",
         "liveLink":"https://prismatic-belekoy-26b1fc.netlify.app/"
       },
@@ -37,7 +37,7 @@
         "title": "CodeShare",
         "description": "I brought Realtime-CodeShare to life. Using Node.js and Socket.io for smooth communication, I hosted servers with Express.js. The React library added a touch of magic to create attractive interfaces.",
         "link": "View In Github",
-        "gitlink":"https://github.com/avi46601/RealTime-CodeShare"
+        "gitlink":"https://github.com/sharadsingh444/RealTime-CodeShare"
       },
       
       {
@@ -46,7 +46,7 @@
         "title": "BookWiseHub",
         "description": "BookWiseHub is like a digital library where we keep track of all kinds of books. This full-stack app is built using React, Tailwind CSS, Express.js, Node.js, and MongoDB, providing seamless user experience.",
         "link": "View In Github",
-        "gitlink":"https://github.com/avi46601/BookWiseHub"
+        "gitlink":"https://github.com/sharadsingh444/BookWiseHub.git"
       }
     ],
     "testimonial": [
